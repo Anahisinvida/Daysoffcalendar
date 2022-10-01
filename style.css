@@ -21,7 +21,7 @@ h4 {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border-collapse: separate;
     color: #fffae6;
-    text-shadow: 3px 3px #558abbaf;
+    text-shadow: 3px 5px 7px #191d21d1;
     letter-spacing: 2px;
 }
 
@@ -50,14 +50,15 @@ input.form-control {
     -webkit-border-radius: 28;
     -moz-border-radius: 20;
     border-radius: 20px;
-  text-shadow: 3px 2px 1px #383941;
-    -webkit-box-shadow: 6px 5px 24px #666666;
-    -moz-box-shadow: 6px 5px 24px #666666;
+  text-shadow: 3px 2px 1px #09090a;
+    -webkit-box-shadow: 6px 5px 24px #1b1a1aa9;
+    -moz-box-shadow: 3px 3px 24px #181818;
     box-shadow: 6px 5px 24px #666666;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: #ff565c;
+    color: #f4efef;
     font-size: 27px;
     padding: 19px;
     text-decoration: none;
+    letter-spacing: 2px;
 }
 
